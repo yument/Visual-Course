@@ -1,0 +1,40 @@
+﻿County,County Code,Vaccine Dose Given,Washington Poverty Rate,County,WeekStartDate,ProbableCases,ConfirmedCases,TotalCases,Age 0-19,Age 20-39,Age 40-59,Age 60-79,Age 80+,UnknownAge
+Adams County,53001,5098,15.6,Adams County,2021-02-07,3,33,36,13,14,9,0,0,0
+Asotin County,53003,6337,14,Asotin County,2021-02-07,0,15,15,2,6,2,2,3,0
+Benton County,53005,59980,9.8,Benton County,2021-02-07,15,245,260,60,95,67,34,4,0
+Chelan County,53007,46070,10.9,Chelan County,2021-02-07,60,30,90,28,24,26,12,0,0
+Clallam County,53009,39549,13.3,Clallam County,2021-02-07,2,18,20,4,5,3,8,0,0
+Clark County,53011,69252,8.8,Clark County,2021-02-07,26,255,281,55,95,89,29,13,0
+Columbia County,53013,1718,13.3,Columbia County,2021-02-07,1,1,2,0,0,0,2,0,0
+Cowlitz County,53015,22803,12.2,Cowlitz County,2021-02-07,22,104,126,23,40,27,29,7,0
+Douglas County,53017,2425,10.4,Douglas County,2021-02-07,29,10,39,10,6,18,4,1,0
+Ferry County,53019,2308,17.8,Ferry County,2021-02-07,1,0,1,1,0,0,0,0,0
+Franklin County,53021,7758,13.4,Franklin County,2021-02-07,10,161,171,48,57,51,13,2,0
+Garfield County,53023,922,13.8,Garfield County,2021-02-07,1,0,1,0,0,1,0,0,0
+Grant County,53025,17196,12.7,Grant County,2021-02-07,72,69,141,45,45,41,10,0,0
+Grays Harbor County,53027,21149,17.3,Grays Harbor County,2021-02-07,2,53,55,7,17,22,7,2,0
+Island County,53029,21246,7.5,Island County,2021-02-07,5,17,22,2,5,7,8,0,0
+Jefferson County,53031,13097,12.7,Jefferson County,2021-02-07,0,7,7,2,0,4,1,0,0
+King County,53033,625010,9.2,King County,2021-02-07,99,1180,1279,247,481,335,180,36,0
+Kitsap County,53035,69095,9.1,Kitsap County,2021-02-07,28,73,101,24,29,25,18,5,0
+Kittitas County,53037,15032,15.8,Kittitas County,2021-02-07,2,12,14,7,1,5,1,0,0
+Klickitat County,53039,8404,12.7,Klickitat County,2021-02-07,7,8,15,3,6,4,2,0,0
+Lewis County,53041,11229,12.5,Lewis County,2021-02-07,16,76,92,12,22,28,23,7,0
+Lincoln County,53043,2153,12.5,Lincoln County,2021-02-07,0,11,11,0,3,7,1,0,0
+Mason County,53045,14061,13.7,Mason County,2021-02-07,1,23,24,0,14,5,5,0,0
+Okanogan County,53047,14774,17,Okanogan County,2021-02-07,10,6,16,7,3,5,1,0,0
+Pacific County,53049,9133,15.4,Pacific County,2021-02-07,0,8,8,0,1,1,2,4,0
+Pend Oreille County,53051,4443,15,Pend Oreille County,2021-02-07,3,8,11,4,2,3,2,0,0
+Pierce County,53053,193521,8.7,Pierce County,2021-02-07,101,651,752,139,254,197,128,32,2
+San Juan County,53055,5056,10.2,San Juan County,2021-02-07,0,6,6,4,1,1,0,0,0
+Skagit County,53057,36967,9.7,Skagit County,2021-02-07,10,56,66,12,18,21,15,0,0
+Skamania County,53059,1874,11.7,Skamania County,2021-02-07,0,2,2,0,0,1,1,0,0
+Snohomish County,53061,151843,7.5,Snohomish County,2021-02-07,66,428,494,104,167,159,62,2,0
+Spokane County,53063,131902,13,Spokane County,2021-02-07,71,574,645,145,206,177,93,24,0
+Stevens County,53065,6309,13.5,Stevens County,2021-02-07,3,22,25,3,6,11,5,0,0
+Thurston County,53067,55703,8.7,Thurston County,2021-02-07,31,90,121,22,50,33,11,5,0
+Wahkiakum County,53069,1850,10.9,Wahkiakum County,2021-02-07,0,6,6,0,3,2,1,0,0
+Walla Walla County,53071,20130,13.3,Walla Walla County,2021-02-07,2,76,78,30,22,18,5,3,0
+Whatcom County,53073,41500,14.9,Whatcom County,2021-02-07,27,204,231,66,77,57,25,6,0
+Whitman County,53075,13874,25.4,Whitman County,2021-02-07,0,20,20,4,12,3,1,0,0
+Yakima County,53077,50804,16.5,Yakima County,2021-02-07,75,303,378,81,147,100,47,3,0
